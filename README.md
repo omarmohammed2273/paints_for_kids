@@ -4,4 +4,4 @@
 ### are going to build a simple application that enables kids draw fancy shapes and also play some 
 ### simple games with those shapes. Your application should help a kid draw a number of figures, fill 
 ### them with different colors, save and load a graph, and so on. The application should provide a 
-### game playing mode to teach kids how to differentiate between figures’ types and colors. 
+### game playing mode to teach kids how to differentiate between figures’ types and colors and get fun. 
