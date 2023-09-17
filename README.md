@@ -5,4 +5,3 @@
 ### simple games with those shapes. Your application should help a kid draw a number of figures, fill 
 ### them with different colors, save and load a graph, and so on. The application should provide a 
 ### game playing mode to teach kids how to differentiate between figures’ types and colors. 
-## hello everyone this awesome project
